@@ -1,5 +1,5 @@
 ﻿(function attachApiClient(windowObject) {
-  const fallbackLocalApi = "http://localhost:5000";
+  const fallbackLocalApi = "http://3.110.81.154";
   const configuredApiBase =
     windowObject.KANBAN_API_BASE_URL || fallbackLocalApi;
 
