@@ -14,3 +14,6 @@ backend/kanban.db
 backend/.env
 node_modules/
 .DS_Store
+Key-pairs/*
+*.pem
+*.key
